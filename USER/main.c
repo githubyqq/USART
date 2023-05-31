@@ -10,10 +10,11 @@ int main(void)
 	LED_Init();		  	//初始化与LED连接的硬件接口
 	while(1)
 	{
-		printf("hello world\n");
+		UsartPrintf(USART_DEBUG,"hello world\n");
 		LED0=0;
 		delay_ms(500);
 		LED0=1;
+		delay_ms(500);
 	}
 }
 

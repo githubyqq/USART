@@ -3,15 +3,17 @@
         {
             "name": "LED",
             "includePath": [
-                "d:\\Desktop\\STM32合集\\点亮PC13\\USER",
-                "d:\\Desktop\\STM32合集\\点亮PC13\\CORE",
-                "d:\\Desktop\\STM32合集\\点亮PC13\\STM32F10x_FWLib\\inc",
-                "d:\\Desktop\\STM32合集\\点亮PC13\\SYSTEM\\sys",
-                "d:\\Desktop\\STM32合集\\点亮PC13\\HARDWARE\\LED",
+                "d:\\Desktop\\STM32合集\\串口通信\\USER",
+                "d:\\Desktop\\STM32合集\\串口通信\\CORE",
+                "d:\\Desktop\\STM32合集\\串口通信\\STM32F10x_FWLib\\inc",
+                "d:\\Desktop\\STM32合集\\串口通信\\SYSTEM\\sys",
+                "d:\\Desktop\\STM32合集\\串口通信\\HARDWARE\\LED",
+                "d:\\Desktop\\STM32合集\\串口通信\\SYSTEM\\delay",
+                "d:\\Desktop\\STM32合集\\串口通信\\SYSTEM\\usart",
                 "D:\\keil5\\ARM\\ARMCC\\include",
                 "D:\\keil5\\ARM\\ARMCC\\include\\rw",
-                "d:\\Desktop\\STM32合集\\点亮PC13\\STM32F10x_FWLib\\src",
-                "d:\\Desktop\\STM32合集\\点亮PC13"
+                "d:\\Desktop\\STM32合集\\串口通信\\STM32F10x_FWLib\\src",
+                "d:\\Desktop\\STM32合集\\串口通信"
             ],
             "defines": [
                 "STM32F10X_MD",
